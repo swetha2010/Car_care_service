@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+ 
+ 
+nav{
+    background-color: #4B88B4;
+    color: white;
+    padding: 30px;
+    font-size: x-large;
+    width: 100%;
+}
+ 
+ 
+ 
+.box{
+    border-color: black;
+   
+    border-style: solid;
+ 
+   display: inline-block;
+    width: 350px;
+    border: 10px;
+    height: 300px;
+    margin: 20px;
+    box-shadow: -1px 0 10px #000000;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ 
+   
+    /* image */
+ 
+}
+ 
+.box:hover{
+    background-color: #4B88B4;
+    color: white;
+}
+ 
+ 
+ 
+ 
+.services{
+ 
+    background: rgb(255, 255, 255);
+    margin-top: 50px;
+    display:block;
+    margin-left: 150px;
+    width: 80%;
+}
+
