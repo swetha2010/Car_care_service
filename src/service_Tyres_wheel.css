@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.part6 {
+    background-color: #4B88B4;
+    color: white;
+    padding: 30px;
+    font-size: x-large;
+    margin-left: 50px;
+}
+
+
+
+.tyres-wheelcare {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 80px;
+}
+
+
+
+
+.part6 h1 {
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.service-section6 {
+    background-color: #e0f3ff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.service-section6 h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #34568b;
+    margin-bottom: 20px;
+}
+
+.details6 {
+    display: flex;
+    align-items: center;
+}
+
+.tyres-image {
+    width: 350px;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.content6 {
+    margin-left: 40px;
+}
+
+.content6 p {
+    margin: 10px 0;
+}
+
+.content6 h3 {
+    margin: 20px 0;
+}
+
+.content6 ul {
+    list-style: none;
+}
+
+.content6 ul li {
+    margin: 10px 0;
+    padding-left: 20px;
+    position: relative;
+}
+
+.content6 ul li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #007bff;
+}
+
+.price6 {
+    font-size: 2rem;
+    color: #34568b;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.appointment-btn6 {
+    background-color: #6cb6ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.appointment-btn6:hover {
+    background-color: #007bff;
+}
